@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
             angle: 90, // Angle set to 90 degrees to move downwards
             spread: 1000,
             origin: { y: 0 }, // Start from the top of the page
-            colors: ['#bb0000', '#ffffff'] // Custom colors for the confetti
+            colors: ['#bb0011', '#a49279', '7e5c3a'] // Custom colors for the confetti
         });
 
         setTimeout(startConfetti, 250); 
